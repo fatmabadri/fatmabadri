@@ -1,9 +1,9 @@
 ### Hey There, I am Fatma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<br />
 
 ## I am a Designer, Developer and Lifelong Learner
 
 <br />
+
 
 - 🔭 I’m currently studying Software Development at British Columbia Institute of Technology
 - 💻 I love web technologies and learn anything about it
@@ -31,7 +31,9 @@
 
 <br />
 
+
 [![Linkedin: fatmabadri](https://img.shields.io/badge/-fatmabadri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fatmabadri/)](https://www.linkedin.com/in/fatmabadri/)
+[![Github Profile Page](https://img.shields.io/badge/-fatmabadri-blue?style=flat-square&logo=Github&logoColor=white&link=https://fatmabadri.github.io/)](https://fatmabadri.github.io/)
 ![](https://visitor-badge.glitch.me/badge?page_id=fatmabadri.fatmabadri)
 
 
