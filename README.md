@@ -7,24 +7,40 @@
 
 - 🔭 I’m currently studying Software Development at British Columbia Institute of Technology
 - 💻 I love web technologies and learn anything about it
-- 🌱 I’m currently learning React, Nodejs and REST API
+- 🌱 I’m currently learning Asp Net Core Web Api
 - 🔨 I'm currently creating my React portfolio project and contributing on the existing projects. 
 - 🤔 I’m looking for mentorship with experienced Software Developers/Engineers
 - 📫 How to reach me: <a href="mailto:fbadri@my.bcit.ca">fbadri@my.bcit.ca</a>
 <!-- - 👯 I’m collaborating on ........ -->
 <!-- Resume -->
 
-<!-- ## Languages and Tools:
-<code>HTML5</code>
-<code>CSS3</code>
-<code>Bootstrap</code>
-<code>SCSS</code>
-<code>JavaScript</code>
-<code>JQuery</code>
-<code>React</code>
-<code>Angular</code> 
-<code>NPM</code>
-<code>NodeJS</code>-->
+
+## Languages and Tools:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![PHP](https://img.shields.io/badge/-PHP-8993be?style=flat-square&logo=php)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb)
+![Express.js](https://img.shields.io/badge/-Expressjs-white?style=flat-square&logo=expressjs)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+<!--![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+ ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud) -->
+
+
+<!-- ## Open Source Contributions: --> 
 
 <!-- ## Github Stats:  -->
 <!-- ## Most Used languages:  -->
