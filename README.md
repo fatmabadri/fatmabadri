@@ -32,7 +32,7 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 <!--![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
@@ -40,7 +40,16 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud) -->
 
 
-<!-- ## Open Source Contributions: --> 
+
+## Open Source Contributions: 
+- Translation of [React Website](https://reactjs.org/) into [Turkish](https://tr.reactjs.org/)
+    - [Accessibility](https://tr.reactjs.org/docs/accessibility.html)
+    - [Integrating with Other Libraries](https://tr.reactjs.org/docs/integrating-with-other-libraries.html)
+
+- Translation of [Modern Javascript](https://javascript.info/) into [Turkish](https://tr.javascript.info/modifying-document)
+    - [Modifying the document](https://tr.javascript.info/modifying-document)
+
+
 
 <!-- ## Github Stats:  -->
 <!-- ## Most Used languages:  -->
