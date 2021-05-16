@@ -14,13 +14,14 @@
 
 
 
-- 🔭 I’m currently studying Software Development at British Columbia Institute of Technology
+<!-- - 🔭 I’m currently studying Software Development at British Columbia Institute of Technology -->
 - 💻 I love web technologies and learn anything about it
-- 🌱 I’m currently learning Asp Net Core Web Api
-- 🔨 I'm currently creating my React portfolio project and contributing on the existing projects. 
+- 🌱 I’m currently learning Asp Net Core 
+<!-- - 🔨 I'm currently contributing on the existing projects.  -->
 - 🤔 I’m looking for mentorship with experienced Software Developers/Engineers
-- 📫 How to reach me: <a href="mailto:fbadri@my.bcit.ca">fbadri@my.bcit.ca</a>
+- 📫 How to reach me: via [Email](mailto:fbadri@my.bcit.ca) or [Linkedin](https://www.linkedin.com/in/fatmabadri/)
 <!-- - 👯 I’m collaborating on ........ -->
+<!-- - 💞️ I’m looking to collaborate on cool projects with real-world use cases -->
 <!-- Resume -->
 
 
@@ -51,16 +52,21 @@
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud) -->
 
+<br />
 
+<details>
+    <summary>
+        <strong>Open Source Contributions:</strong>
+    </summary>
 
-## Open Source Contributions: 
 - Translation of [React Website](https://reactjs.org/) into [Turkish](https://tr.reactjs.org/)
-    - [Accessibility](https://tr.reactjs.org/docs/accessibility.html)
+    - [Accessibility](https://tr.reactjs.org/docs/accessibility.html)    
     - [Integrating with Other Libraries](https://tr.reactjs.org/docs/integrating-with-other-libraries.html)
 
 - Translation of [Modern Javascript](https://javascript.info/) into [Turkish](https://tr.javascript.info/)
     - [Modifying the document](https://tr.javascript.info/modifying-document)
 
+</details>
 
 
 <!-- ## Github Stats:  -->
@@ -69,8 +75,7 @@
 <br />
 
 
-[![Linkedin: fatmabadri](https://img.shields.io/badge/-fatmabadri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fatmabadri/)](https://www.linkedin.com/in/fatmabadri/)
-[![Github Profile Page](https://img.shields.io/badge/-fatmabadri-blue?style=flat-square&logo=Github&logoColor=white&link=https://fatmabadri.github.io/)](https://fatmabadri.github.io/)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=fatmabadri.fatmabadri)
 
 
