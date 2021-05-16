@@ -4,6 +4,15 @@
 
 <br />
 
+[![Linkedin: fatmabadri](https://img.shields.io/badge/-fatmabadri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fatmabadri/)](https://www.linkedin.com/in/fatmabadri/)
+
+
+[![Github Profile Page](https://img.shields.io/badge/-fatmabadri-blue?style=flat-square&logo=Github&logoColor=white&link=https://fatmabadri.github.io/)](https://fatmabadri.github.io/)
+
+[![Portfolio](https://img.shields.io/badge/-portfolio-blue?style=flat-square&logo=React&logoColor=white&link=https://fatma-reactportfolio-netlify.com/)](https://fatma-reactportfolio.netlify.app/)
+
+
+
 
 - 🔭 I’m currently studying Software Development at British Columbia Institute of Technology
 - 💻 I love web technologies and learn anything about it
