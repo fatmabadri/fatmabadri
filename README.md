@@ -5,10 +5,7 @@
 <br />
 
 [![Linkedin: fatmabadri](https://img.shields.io/badge/-fatmabadri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fatmabadri/)](https://www.linkedin.com/in/fatmabadri/)
-
-
 [![Github Profile Page](https://img.shields.io/badge/-fatmabadri-blue?style=flat-square&logo=Github&logoColor=white&link=https://fatmabadri.github.io/)](https://fatmabadri.github.io/)
-
 [![Portfolio](https://img.shields.io/badge/-portfolio-blue?style=flat-square&logo=React&logoColor=white&link=https://fatma-reactportfolio-netlify.com/)](https://fatma-reactportfolio.netlify.app/)
 
 
@@ -17,15 +14,15 @@
 <!-- - 🔭 I’m currently studying Software Development at British Columbia Institute of Technology -->
 - 💻 I love web technologies and learn anything about it
 - 🌱 I’m currently learning Asp Net Core 
-<!-- - 🔨 I'm currently contributing on the existing projects.  -->
 - 🤔 I’m looking for mentorship with experienced Software Developers/Engineers
 - 📫 How to reach me: via [Email](mailto:fbadri@my.bcit.ca) or [Linkedin](https://www.linkedin.com/in/fatmabadri/)
+<!-- - 🔨 I'm currently contributing on the existing projects.  -->
 <!-- - 👯 I’m collaborating on ........ -->
 <!-- - 💞️ I’m looking to collaborate on cool projects with real-world use cases -->
 <!-- Resume -->
 
 
-## Languages and Tools:
+## Languages, Freameworks and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
