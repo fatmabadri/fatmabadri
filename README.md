@@ -20,11 +20,11 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysqlColor=f5f5f5)
 ![PHP](https://img.shields.io/badge/-PHP-8993be?style=flat-square&logo=php)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb)
-![Express.js](https://img.shields.io/badge/-Expressjs-white?style=flat-square&logo=expressjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb&logoColor=f5f5f5)
+![Express.js](https://img.shields.io/badge/-Expressjs-white?style=flat-square&logo=expressjs&logoColor=f5f5f5)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
@@ -49,7 +49,7 @@
     - [Accessibility](https://tr.reactjs.org/docs/accessibility.html)
     - [Integrating with Other Libraries](https://tr.reactjs.org/docs/integrating-with-other-libraries.html)
 
-- Translation of [Modern Javascript](https://javascript.info/) into [Turkish](https://tr.javascript.info/modifying-document)
+- Translation of [Modern Javascript](https://javascript.info/) into [Turkish](https://tr.javascript.info/)
     - [Modifying the document](https://tr.javascript.info/modifying-document)
 
 
