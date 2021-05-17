@@ -22,7 +22,7 @@
 <!-- Resume -->
 
 
-## Languages, Freameworks and Tools:
+## Languages, Frameworks and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -30,13 +30,13 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysqlColor=f5f5f5)
 ![PHP](https://img.shields.io/badge/-PHP-8993be?style=flat-square&logo=php)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb&logoColor=f5f5f5)
-![Express.js](https://img.shields.io/badge/-Expressjs-white?style=flat-square&logo=expressjs&logoColor=f5f5f5)
+![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb)
+![Express.js](https://img.shields.io/badge/-Expressjs-white?style=flat-square&logo=expressjs)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
+![MaterialUI](https://img.shields.io/badge/-MaterialUI-0081CB?style=flat-square&logo=material-UI)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 <!--![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
